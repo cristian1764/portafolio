@@ -6,9 +6,9 @@ export const portfolioData = {
     role: "Web Developer",
   },
   intro: {
-    title: "Hi there, my name is YourName!",
+    title: "Mi nombre es  cristian!",
     description:
-      "Join me on my journey from junior to Software Development, as I tackle exciting projects along the way.",
+      "soy estudiante de la ingeneria en sistemas computacionales.",
   },
   projects: [
     {
